@@ -1,4 +1,24 @@
 {
+  "name": "spectre-scss",
+  "version": "1.0.0",
+  "description": "Form from SASS version",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminmeyghani/spectre-scss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminmeyghani/spectre-scss/issues"
+  },
+  "homepage": "https://github.com/aminmeyghani/spectre-scss#readme",
   "devDependencies": {
     "gulp": "latest",
     "gulp-autoprefixer": "latest",
